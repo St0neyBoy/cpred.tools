@@ -1,2 +1,2 @@
-# cpr.tools
+# cpred.tools
 Tools for playing Cyberpunk Red
